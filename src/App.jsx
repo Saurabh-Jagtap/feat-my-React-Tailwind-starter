@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Layout from './layouts/layout'
+import Layout from './layouts/Layout'
 import Home from './pages/Home'
 
 
